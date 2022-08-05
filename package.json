@@ -1,0 +1,15 @@
+{
+  "name": "ctfd-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "juice-shop-ctf --ignoreSslWarnings"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "juice-shop-ctf-cli": "^9.1.0"
+  }
+}
